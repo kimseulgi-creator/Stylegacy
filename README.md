@@ -1,6 +1,34 @@
 # STYLEGACY
+![stylegacy](https://github.com/kimseulgi-creator/camp-ing/assets/78592995/3fec5c48-edef-4616-828c-257fc14be28a)
 
-`Style`과 `Legacy`의 합성어로, 패션과 스타일 분야에서 다양한 브랜드들을 유산처럼 보존하고, 사용자들에게 지도정보와 함께 실시간으로 전해주는 플랫폼입니다. 사용자들이 언제나 브랜드에 대한 최신 정보를 얻을 수 있도록 합니다.
+내일배움캠프 6기 2조 개인과제 23.07.18 - 23.07.24
+
+<br />
+
+## 팀구성
+윤수민 | 김슬기 | 박희연 | 안홍민 | 전동헌 
+
+<br />
+
+## 목차
+1. [프로젝트 소개](#프로젝트-소개)
+2. [주요 기능과 특징](#주요-기능과-특징)
+3. [기술스택](#기술스택)
+4. [배포주소](#배포주소)
+5. [install](#install)
+6. [컨벤션](#커밋-컨벤션)
+7. [구현 기능](#구현-기능)
+
+<br />
+
+## 프로젝트 소개
+*' 패션을 이어오다 🧥 '*
+
+`Style`과 `Legacy`의 합성어로, 패션과 스타일 분야에서 다양한 브랜드들을 유산처럼 보존하고, <br />
+사용자들에게 지도정보와 함께 실시간으로 전해주는 플랫폼입니다. <br />
+사용자들이 언제나 브랜드에 대한 최신 정보를 얻을 수 있도록 합니다.
+
+<br />
 
 ## 주요 기능과 특징
 
@@ -16,6 +44,28 @@
 
   사용자들이 실시간으로 리뷰와 평가를 함께 남길 수 있어서 다른 사용자들에게 신뢰성 있는 정보를 얻을 수 있도록 돕습니다.
 
+<br />
+
+## 기술스택
+<div>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
+	<img src="https://img.shields.io/badge/redux-764ABC?style=flat&logo=redux&logoColor=white" />
+	<img src="https://img.shields.io/badge/axios-5A29E4?style=flat&logo=axios&logoColor=white" />
+	<img src="https://img.shields.io/badge/reactquery-FF4154?style=flat&logo=reactquery&logoColor=white" />
+	<img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat&logo=Styledcomponents&logoColor=white" />
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+	<img src="https://img.shields.io/badge/kakaomap-FFCD00?style=flat&logo=kakao&logoColor=white" />
+	<img src="https://img.shields.io/badge/algolia-003DFF?style=flat&logo=algolia&logoColor=white" />
+</div>
+
+<br />
+
+## 배포주소
+[stylegacy-7hzf.vercel.app/](https://stylegacy-7hzf.vercel.app/)
+
+<br />
+
 ## install
 
 ```javascript
@@ -24,16 +74,7 @@
  yarn i
 ```
 
-## 팀구성
-
-윤수민 | 김슬기 | 안홍민 | 전동헌 | 박희연
-
-## 기술스택
-
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/Styledcomponents-DB7093?style=flat&logo=Styledcomponents&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
+<br />
 
 ## 커밋 컨벤션
 
@@ -120,6 +161,8 @@ const addPost = () => {};
   transition: 300ms;
 }
 ```
+
+<br />
 
 ## 구현 기능
 
